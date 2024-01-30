@@ -1,0 +1,11 @@
+# Django-react-project
+__pycache__
+db_settings.py
+venv
+
+
+django_db.sql
+djangoReactProject.zip
+package-lock.json
+package.json
+react-django-app.zip
